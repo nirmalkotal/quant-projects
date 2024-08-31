@@ -1,4 +1,4 @@
 # Quant Projects:
 
-[addsd](https://facebook.com)
-[sdsfe](www.arxiv.com)
+[Efficient frontier and CAPM](https://github.com/nirmalkotal/quant-projects/blob/main/efficient%20frontier%20and%20CAPM.ipynb)
+
