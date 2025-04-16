@@ -6,5 +6,5 @@
 
 ## 2. [European option pricing](https://github.com/nirmalkotal/quant-projects/blob/main/notebook/European%20option%20pricing.ipynb)
 
-## 3. [Efficient frontier and CAPM](https://github.com/nirmalkotal/quant-projects/blob/main/notebook/efficient_frontier.ipynb)
+## 3. [Efficient frontier computation](https://github.com/nirmalkotal/quant-projects/blob/main/notebook/efficient_frontier.ipynb)
 
