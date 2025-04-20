@@ -1,6 +1,13 @@
 # Quant Projects:
 
 
+## 1. 📉 Value at Risk (VaR) Estimation and Backtesting for a SENSEX-Weighted Portfolio
+
+Implemented and evaluated standard Value at Risk (VaR) models — **Historical Simulation**, **Variance-Covariance**, and **Monte Carlo Simulation** — to estimate downside risk for a SENSEX-weighted portfolio. The project includes **backtesting for model accuracy** and analyzes the impact of extreme market events like the **COVID crash** on VaR estimation.
+
+🔗 **Resources**: [📓 Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/value_at_risk/VaR-sensex.ipynb) | [📄 PDF Report](https://github.com/nirmalkotal/quant-projects/blob/main/value_at_risk/VaR-sensex.pdf) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/value_at_risk)
+
+
 
 ## 1. [Value at Risk](https://github.com/nirmalkotal/quant-projects/blob/main/notebook/VaR-sensex.ipynb)
 
