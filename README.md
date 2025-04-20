@@ -16,14 +16,17 @@ This project computes and compares European option prices using three methods: *
 🔗 **Resources**:  [📄 Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/european_option_pricing/European%20option%20pricing.pdf) | [📓 Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/european_option_pricing/European%20option%20pricing.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/european_option_pricing)
 
 
-
-## 3. [Efficient frontier computation](https://github.com/nirmalkotal/quant-projects/blob/main/notebook/efficient_frontier.ipynb)
-
-
-## 4. 📉 Volatility Skew Analysis using NIFTY Option Chain
+## 3. 📉 Volatility Skew Analysis using NIFTY Option Chain
 
 Analyzed the implied volatility (IV) structure across strike prices for NIFTY options as of **17th April 2025** with expiry on **30th April 2025**. The goal is to compute IVs using the Black-Scholes model and visualize the volatility skew for calls and puts.
 
 🔗 **Resources**: 📄 [Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/volatility_skew/volatility_skew.pdf) | 📓 [Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/volatility_skew/volatility_skew.ipynb) | 📁 [Folder](https://github.com/nirmalkotal/quant-projects/tree/main/volatility_skew)
+
+## 4. 📈 Portfolio Optimization Using the Efficient Frontier
+
+Constructed a portfolio of 5 major NSE bank stocks using Modern Portfolio Theory (MPT). Simulated 100,000 random portfolios via Monte Carlo to identify the one with the **maximum Sharpe ratio**. The project visualizes the **efficient frontier** and derives optimal asset allocation.
+
+🔗 **Resources**: [📄 PDF Report](https://github.com/nirmalkotal/quant-projects/blob/main/efficient_frontier/efficient_frontier.pdf) | [📓 Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/efficient_frontier/efficient_frontier.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/efficient_frontier)
+
 
 
