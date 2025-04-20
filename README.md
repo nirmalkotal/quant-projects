@@ -9,5 +9,5 @@
 ## 3. [Efficient frontier computation](https://github.com/nirmalkotal/quant-projects/blob/main/notebook/efficient_frontier.ipynb)
 
 ## 4. Volatility Skew Analysis using NIFTY Option Chain:
-      [Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/volatility_skew/volatility_skew.pdf)
+[Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/volatility_skew/volatility_skew.pdf)
 
