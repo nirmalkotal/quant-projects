@@ -5,7 +5,7 @@
 
 Implemented and evaluated standard Value at Risk (VaR) models — **Historical Simulation**, **Variance-Covariance**, and **Monte Carlo Simulation** — to estimate downside risk for a SENSEX-weighted portfolio. The project includes **backtesting for model accuracy** and analyzes the impact of extreme market events like the **COVID crash** on VaR estimation.
 
-🔗 **Resources**: [📓 Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/value_at_risk/VaR-sensex.ipynb) | [📄 PDF Report](https://github.com/nirmalkotal/quant-projects/blob/main/value_at_risk/VaR-sensex.pdf) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/value_at_risk)
+🔗 **Resources**:  [📄 Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/value_at_risk/VaR-sensex.pdf) | [📓 Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/value_at_risk/VaR-sensex.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/value_at_risk)
 
 
 
@@ -23,6 +23,6 @@ Analyzed the implied volatility (IV) structure across strike prices for NIFTY op
 🔗 **Resources**:
 - 📄 [Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/volatility_skew/volatility_skew.pdf)
 - 📓 [Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/volatility_skew/volatility_skew.ipynb)
-- 📁 [Project Folder](https://github.com/nirmalkotal/quant-projects/tree/main/volatility_skew)
+- 📁 [Folder](https://github.com/nirmalkotal/quant-projects/tree/main/volatility_skew)
 
 
