@@ -26,7 +26,7 @@ Analyzed the implied volatility (IV) structure across strike prices for NIFTY op
 
 Constructed a portfolio of 5 major NSE bank stocks using Modern Portfolio Theory (MPT). Simulated 100,000 random portfolios via Monte Carlo to identify the one with the **maximum Sharpe ratio**. The project visualizes the **efficient frontier** and derives optimal asset allocation.
 
-🔗 **Resources**: [📄 PDF Report](https://github.com/nirmalkotal/quant-projects/blob/main/efficient_frontier/efficient_frontier.pdf) | [📓 Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/efficient_frontier/efficient_frontier.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/efficient_frontier)
+🔗 **Resources**: [📄 Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/efficient_frontier/efficient_frontier.pdf) | [📓 Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/efficient_frontier/efficient_frontier.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/efficient_frontier)
 
 
 
