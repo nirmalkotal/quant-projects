@@ -32,9 +32,9 @@ Analyzed the implied volatility (IV) structure across strike prices for NIFTY op
 
 ## 4. 📉 Building an Efficient Frontier and Optimal Portfolio from SENSEX Stocks
 
-Constructed an optimal risk-adjusted portfolio by selecting 10 stocks from the top 30 companies listed in the SENSEX index, using three years of historical data. The portfolio is optimized using the Sharpe ratio, and its performance is backtested over the following one-year period against the SENSEX and a naive (equally weighted) portfolio.
+This project applies Modern Portfolio Theory (MPT) to construct optimal 10-stock portfolios from the BSE Sensex constituents (2012–2025). Using Monte Carlo simulations and a rolling window backtesting framework (2-year training, 1-year testing), the project identifies portfolios that maximize the Sharpe ratio and consistently outperform the benchmark index (Sensex).
 
-🔗 **Resources**: [📄 Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/efficient_frontier/efficient_frontier_optimal_portfolio.pdf) | [📓 Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/efficient_frontier/efficient_frontier_optimal_portfolio.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/efficient_frontier)
+🔗 **Resources**: [📄 Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/modern_portfolio_theory/optimal_portfolio.pdf) | [📓 Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/modern_portfolio_theory/optimal_portfolio.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/modern_portfolio_theory)
 
 
 
