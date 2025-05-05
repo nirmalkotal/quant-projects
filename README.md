@@ -30,7 +30,7 @@ Analyzed the implied volatility (IV) structure across strike prices for NIFTY op
 ---
 
 
-## 4. 📉 Building an Efficient Frontier and Optimal Portfolio from SENSEX Stocks
+## 4. 📉 Optimal Portfolio Construction Based on Modern Portfolio Theory: Outperforming the Benchmark Index
 
 This project applies Modern Portfolio Theory (MPT) to construct optimal 10-stock portfolios from the BSE Sensex constituents (2012–2025). Using Monte Carlo simulations and a rolling window backtesting framework (2-year training, 1-year testing), the project identifies portfolios that maximize the Sharpe ratio and consistently outperform the benchmark index (Sensex).
 
