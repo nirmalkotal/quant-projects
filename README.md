@@ -12,9 +12,9 @@ Implemented and evaluated standard Value at Risk (VaR) models — **Historical S
 ---
 
 
-## 2. 📉 European Option Pricing using Black-Scholes, Binomial, and Monte Carlo Methods
+## 2. 📉 European Option Pricing and Variance Reduction Techniques:
 
-This project computes and compares European option prices using three methods: **Black-Scholes closed-form**, **Binomial tree**, and **Monte Carlo simulation**. It includes a detailed **convergence and error analysis** for the Monte Carlo method using log-log plots, validating the expected theoretical error of order \( \frac{1}{\sqrt{N}} \).
+Implemented Black-Scholes, Binomial Tree, and Monte Carlo methods for pricing European options. Analyzed error convergence and runtime trade-offs, and applied variance reduction techniques: Antithetic Variates and Control Variates, to improve Monte Carlo efficiency while maintaining pricing accuracy.
 
 🔗 **Resources**:  [📄 Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/european_option_pricing/European%20option%20pricing%20and%20variance%20reduction.pdf) | [📓 Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/european_option_pricing/European%20option%20pricing%20and%20variance%20reduction.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/european_option_pricing)
 
