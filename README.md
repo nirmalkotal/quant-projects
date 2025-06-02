@@ -21,11 +21,11 @@ Implemented Black-Scholes, Binomial Tree, and Monte Carlo methods for pricing Eu
 ---
 
 
-## 3. 📉 Volatility Skew Analysis using NIFTY Option Chain
+## 3. 📉 Calibrating the Implied Volatility Surface of NIFTY Options
 
-Analyzed the implied volatility (IV) structure across strike prices for NIFTY options as of **17th April 2025** with expiry on **30th April 2025**. The goal is to compute IVs using the Black-Scholes model and visualize the volatility skew for calls and puts.
+Calibrated NIFTY option implied volatility surface using polynomial regression on log-moneyness and maturity. Computed IV via Black-Scholes with Newton-Raphson, optimized model degree using k-fold cross-validation, and visualized 3D surface. Conducted residual diagnostics capturing volatility skew, term structure, and nonlinear effects.
 
-🔗 **Resources**: 📄 [Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/volatility_skew/volatility_skew.pdf) | 📓 [Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/volatility_skew/volatility_skew.ipynb) | 📁 [Folder](https://github.com/nirmalkotal/quant-projects/tree/main/volatility_skew)
+🔗 **Resources**: 📄 [Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/volatility_skew/volatility%20surface%20calibration.pdf) | 📓 [Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/volatility_skew/volatility%20surface%20calibration.ipynb) | 📁 [Folder](https://github.com/nirmalkotal/quant-projects/tree/main/volatility_skew)
 
 ---
 
