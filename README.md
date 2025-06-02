@@ -11,15 +11,13 @@ Implemented and evaluated standard Value at Risk (VaR) models — **Historical S
 
 ---
 
+## 2. 📊 Credit Risk Classification Using Machine Learning on the German Credit Dataset
 
-## 2. 📉 European Option Pricing and Variance Reduction Techniques:
+Built and evaluated supervised machine learning models: Logistic Regression, SVM, Random Forest, XGBoost, and KNN and to classify credit risk (good vs. bad credit) using the German Credit dataset. The project includes EDA, model performance comparison via cross-validation and train-test split, and ROC AUC-based evaluation. Ensemble methods and linear models were found to outperform KNN, with Logistic Regression offering the best overall consistency.
 
-Implemented Black-Scholes, Binomial Tree, and Monte Carlo methods for pricing European options. Analyzed error convergence and runtime trade-offs, and applied variance reduction techniques: Antithetic Variates and Control Variates, to improve Monte Carlo efficiency while maintaining pricing accuracy.
-
-🔗 **Resources**:  [📄 Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/european_option_pricing/European%20option%20pricing%20and%20variance%20reduction.pdf) | [📓 Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/european_option_pricing/European%20option%20pricing%20and%20variance%20reduction.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/european_option_pricing)
+🔗 **Resources**: [📄 Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/credit-risk-classification/credit_risk_classification.pdf) | [📓 Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/credit-risk-classification/credit_risk_classification.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/credit-risk-classification)
 
 ---
-
 
 ## 3. 📉 Calibrating the Implied Volatility Surface of NIFTY Options
 
@@ -36,9 +34,12 @@ This project applies Modern Portfolio Theory (MPT) to construct optimal 10-stock
 
 🔗 **Resources**: [📄 Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/modern_portfolio_theory/optimal_portfolio.pdf) | [📓 Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/modern_portfolio_theory/optimal_portfolio.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/modern_portfolio_theory)
 
+---
 
-## 5. 📊 Credit Risk Classification Using Machine Learning on the German Credit Dataset
+## 5. 📉 European Option Pricing and Variance Reduction Techniques:
 
-Built and evaluated supervised machine learning models: Logistic Regression, SVM, Random Forest, XGBoost, and KNN and to classify credit risk (good vs. bad credit) using the German Credit dataset. The project includes EDA, model performance comparison via cross-validation and train-test split, and ROC AUC-based evaluation. Ensemble methods and linear models were found to outperform KNN, with Logistic Regression offering the best overall consistency.
+Implemented Black-Scholes, Binomial Tree, and Monte Carlo methods for pricing European options. Analyzed error convergence and runtime trade-offs, and applied variance reduction techniques: Antithetic Variates and Control Variates, to improve Monte Carlo efficiency while maintaining pricing accuracy.
 
-🔗 **Resources**: [📄 Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/credit-risk-classification/credit_risk_classification.pdf) | [📓 Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/credit-risk-classification/credit_risk_classification.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/credit-risk-classification)
+🔗 **Resources**:  [📄 Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/european_option_pricing/European%20option%20pricing%20and%20variance%20reduction.pdf) | [📓 Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/european_option_pricing/European%20option%20pricing%20and%20variance%20reduction.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/european_option_pricing)
+
+---
