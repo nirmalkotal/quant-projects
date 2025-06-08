@@ -11,7 +11,16 @@ Implemented and evaluated standard Value at Risk (VaR) models — **Historical S
 
 ---
 
-## 2. 📊 Credit Risk Classification Using Machine Learning on the German Credit Dataset
+## 2. 📉 Extreme Value Theory and GARCH-EVT-Based VaR Modeling of NIFTY 50 Returns:
+
+This project develops a GARCH-EVT framework to estimate and validate Value at Risk (VaR) for NIFTY 50 returns. Heavy tails are captured via the Generalized Pareto Distribution, while GARCH models short-term volatility clustering. Backtesting shows GARCH-EVT outperforms pure EVT, with a violation ratio near 1 and a Kupiec test p-value of 0.901.
+
+🔗 **Resources**:  [📄 Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/extreme_value_theory/evt_var.pdf) | [📓 Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/extreme_value_theory/evt_var.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/extreme_value_theory)
+
+---
+
+
+## 3. 📊 Credit Risk Classification Using Machine Learning on the German Credit Dataset
 
 Built and evaluated supervised machine learning models: Logistic Regression, SVM, Random Forest, XGBoost, and KNN and to classify credit risk (good vs. bad credit) using the German Credit dataset. The project includes EDA, model performance comparison via cross-validation and train-test split, and ROC AUC-based evaluation. Ensemble methods and linear models were found to outperform KNN, with Logistic Regression offering the best overall consistency.
 
@@ -19,7 +28,7 @@ Built and evaluated supervised machine learning models: Logistic Regression, SVM
 
 ---
 
-## 3. 📉 Calibrating the Implied Volatility Surface of NIFTY Options
+## 4. 📉 Calibrating the Implied Volatility Surface of NIFTY Options
 
 Calibrated NIFTY option implied volatility surface using polynomial regression on log-moneyness and maturity. Computed IV via Black-Scholes with Newton-Raphson, optimized model degree using k-fold cross-validation, and visualized 3D surface. Conducted residual diagnostics capturing volatility skew, term structure, and nonlinear effects.
 
@@ -28,7 +37,7 @@ Calibrated NIFTY option implied volatility surface using polynomial regression o
 ---
 
 
-## 4. 📉 Optimal Portfolio Construction Based on Modern Portfolio Theory: Outperforming the Benchmark Index
+## 5. 📉 Optimal Portfolio Construction Based on Modern Portfolio Theory: Outperforming the Benchmark Index
 
 This project applies Modern Portfolio Theory (MPT) to construct optimal 10-stock portfolios from the BSE Sensex constituents (2012–2025). Using Monte Carlo simulations and a rolling window backtesting framework (2-year training, 1-year testing), the project identifies portfolios that maximize the Sharpe ratio and consistently outperform the benchmark index (Sensex).
 
@@ -36,10 +45,17 @@ This project applies Modern Portfolio Theory (MPT) to construct optimal 10-stock
 
 ---
 
-## 5. 📉 European Option Pricing and Variance Reduction Techniques:
+## 6. 📉 European Option Pricing and Variance Reduction Techniques:
 
 Implemented Black-Scholes, Binomial Tree, and Monte Carlo methods for pricing European options. Analyzed error convergence and runtime trade-offs, and applied variance reduction techniques: Antithetic Variates and Control Variates, to improve Monte Carlo efficiency while maintaining pricing accuracy.
 
 🔗 **Resources**:  [📄 Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/european_option_pricing/European%20option%20pricing%20and%20variance%20reduction.pdf) | [📓 Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/european_option_pricing/European%20option%20pricing%20and%20variance%20reduction.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/european_option_pricing)
 
 ---
+
+
+
+
+
+
+
