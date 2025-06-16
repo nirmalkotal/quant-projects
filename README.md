@@ -57,10 +57,10 @@ Implemented Black-Scholes, Binomial Tree, and Monte Carlo methods for pricing Eu
 ## 7. 📉 Yield Curve Modeling, Bond Portfolio Risk, and Recession Forecasting using US Treasury Data:
 
 Modeled US Treasury yield curves using Nelson-Siegel and spline methods; evaluated bond portfolio risk (DV01, duration, convexity), time series analysis of spread (difference of 10Y and 2Y bond yield), and built machine learning models to forecast US recessions using macro-financial data.
-Key results: Cubic spline outperformed Nelson-Siegel (RMSE: 0.045 vs 0.091); portfolio metrics showed DV01 1.43/bp with Duration 6.56y and 99% VaR 18.44; ARIMA(3,1,0) achieved optimal spread forecasting (RMSE: 0.024). Random Forest recession model achieved 95% accuracy with residential investment and spread as the most predictive features.
+Key results: Cubic spline outperformed Nelson-Siegel (RMSE: 0.045 vs 0.091); portfolio metrics showed DV01 1.43/bp with Duration 6.56y and 99% VaR 18.44; ARIMA(3,1,0) achieved optimal spread forecasting (RMSE: 0.024). Logistic regression recession model achieved 84% recall and 88% AUC with residential investment and spread as the most predictive features.
 
 
-🔗 **Resources**:  [📄 Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/european_option_pricing/European%20option%20pricing%20and%20variance%20reduction.pdf) | [📓 Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/european_option_pricing/European%20option%20pricing%20and%20variance%20reduction.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/european_option_pricing)
+🔗 **Resources**:  [📄 Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/yield-curve-framework/yield_curve_recession.pdf) | [📓 Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/yield-curve-framework/yield_curve_recession.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/yield-curve-framework)
 
 ---
 
