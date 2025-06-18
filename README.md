@@ -22,7 +22,7 @@
 
 
 
-🔗 **Resources**:  [📄 Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/value_at_risk/VaR-sensex.pdf) | [📓 Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/value_at_risk/VaR-sensex.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/value_at_risk)
+🔗 **Resources**:  [📄 Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/value_at_risk/VaR-estimation-and-backtesting.pdf) | [📓 Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/value_at_risk/VaR-estimation-and-backtesting.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/value_at_risk)
 
 ---
 
