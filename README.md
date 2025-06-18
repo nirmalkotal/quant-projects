@@ -3,9 +3,24 @@
 ---
 
 
-## 1. 📉 Value at Risk (VaR) Estimation and Backtesting for a SENSEX-Weighted Portfolio
+## 1. 📉 Value at Risk Estimation and Backtesting: Integrating Extreme Value Theory and GARCH Models
 
-Implemented and evaluated standard Value at Risk (VaR) models — **Historical Simulation**, **Variance-Covariance**, and **Monte Carlo Simulation** — to estimate downside risk for a SENSEX-weighted portfolio. The project includes **backtesting for model accuracy** and analyzes the impact of extreme market events like the **COVID crash** on VaR estimation.
+- This project builds a comprehensive market risk modeling framework using a SENSEX-weighted portfolio. It includes:
+  - VaR estimation using Historical Simulation, Variance-Covariance, Monte Carlo, GARCH, EVT, and GARCH+EVT
+  - Backtesting with Violation Ratio, Kupiec Test, and Basel Traffic Light framework
+  - Tail risk modeling using Generalized Pareto Distribution (GPD) and Extreme Value Theory (EVT)
+
+- Scenarios Covered: Normal market (2021–2022) and stressed market (COVID-19 crash, 2019–2020)
+
+- Models used: Normal VaR, GARCH(1,1), EVT (GPD), Monte Carlo
+
+- Metrics: Violation Count, Violation Ratio, Kupiec p-value
+
+- Also includes return distribution fitting, mean excess analysis, and EVT-based risk calibration.
+
+- Tools: Python, NumPy, pandas, matplotlib, seaborn, arch, scipy, statsmodels
+
+
 
 🔗 **Resources**:  [📄 Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/value_at_risk/VaR-sensex.pdf) | [📓 Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/value_at_risk/VaR-sensex.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/value_at_risk)
 
