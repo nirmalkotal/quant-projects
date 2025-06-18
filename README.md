@@ -64,6 +64,21 @@ Key results: Cubic spline outperformed Nelson-Siegel (RMSE: 0.045 vs 0.091); por
 
 ---
 
+## 8. 📊 Credit Risk Modeling Using LendingClub Data: A Comprehensive Framework for PD, LGD, EAD, and Scorecard Development
 
+This project builds a full credit risk modeling pipeline using LendingClub loan data. It includes:
+- *PD, LGD, EAD modeling*
+- *Expected Loss & Credit VaR estimation*
+- *Scorecard development with WOE & logistic regression*
+
+Models used: Logistic Regression, Random Forest, XGBoost  
+
+Metrics: AUC, Brier Score, RMSE
+
+Also includes simulation of portfolio losses and cutoff-based approval policy.
+
+Tools: Python, scikit-learn, xgboost, scorecardpy, matplotlib, seaborn
+
+🔗 **Resources**: [📄 Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/credit-risk-modeling/credit_risk_modeling.pdf) | [📓 Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/credit-risk-modeling/credit_risk_modeling.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/credit-risk-modeling)
 
 
