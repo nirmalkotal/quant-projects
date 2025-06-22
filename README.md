@@ -10,7 +10,7 @@
   - Backtesting with Violation Ratio, Kupiec Test, and Basel Traffic Light framework
   - Tail risk modeling using Generalized Pareto Distribution (GPD) and Extreme Value Theory (EVT)
 
-- Scenarios Covered: Normal market (2021–2022) and stressed market (COVID-19 crash, 2019–2020)
+- Scenarios Covered: Normal calm market (2017) and stressed market (2020)
 
 - Models used: Normal VaR, GARCH(1,1), EVT (GPD), Monte Carlo
 
