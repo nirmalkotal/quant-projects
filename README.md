@@ -6,7 +6,7 @@
 ## 1. 📉 Value at Risk Estimation and Backtesting: Integrating Extreme Value Theory and GARCH Models
 
 - This project builds a comprehensive market risk modeling framework using a SENSEX-weighted portfolio. It includes:
-  - VaR estimation using Historical Simulation, Variance-Covariance, Monte Carlo, GARCH, EVT, and GARCH+EVT
+  - VaR estimation using Historical Simulation, Variance-Covariance, Monte Carlo, EWMA, GARCH, EVT, and GARCH+EVT
   - Backtesting with Violation Ratio, Kupiec Test, and Basel Traffic Light framework
   - Tail risk modeling using Generalized Pareto Distribution (GPD) and Extreme Value Theory (EVT)
 
