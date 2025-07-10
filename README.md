@@ -86,7 +86,7 @@ This project applies Modern Portfolio Theory (MPT) to construct optimal 10-stock
 
 
 ---
-<!--
+
 
 ## 7. 📊 Credit Risk Modeling Using LendingClub Data: A Comprehensive Framework for PD, LGD, EAD, and Scorecard Development
 
@@ -106,9 +106,9 @@ Tools: Python, scikit-learn, xgboost, scorecardpy, matplotlib, seaborn
 🔗 **Resources**: [📄 Report in PDF](https://github.com/nirmalkotal/quant-projects/blob/main/credit-risk-modeling/credit_risk_modeling.pdf) | [📓 Jupyter Notebook](https://github.com/nirmalkotal/quant-projects/blob/main/credit-risk-modeling/credit_risk_modeling.ipynb) | [📁 Folder](https://github.com/nirmalkotal/quant-projects/tree/main/credit-risk-modeling)
 
 ---
--->
 
-## 7. 📊 Credit Risk Classification Using Machine Learning on the German Credit Dataset
+
+## 8. 📊 Credit Risk Classification Using Machine Learning on the German Credit Dataset
 
 Built and evaluated supervised machine learning models: Logistic Regression, SVM, Random Forest, XGBoost, and KNN and to classify credit risk (good vs. bad credit) using the German Credit dataset. The project includes EDA, model performance comparison via cross-validation and train-test split, and ROC AUC-based evaluation. Ensemble methods and linear models were found to outperform KNN, with Logistic Regression offering the best overall consistency.
 
